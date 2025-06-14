@@ -25,8 +25,8 @@ Welcome to my GitHub! I'm an aspiring Software Developer and Machine Learning en
 |------------------------|---------------------------------------------------------------------------------------|
 | **Languages**          | Python, C++                                                                          |
 | **Frameworks**         | FastAPI, React                                                                |
-| **ML & CV Libraries**  | scikit-learn, OpenCV, TensorFlow, Keras, dlib                                        |
-| **Databases**          | MySQL,                                                                 |
+| **ML & CV Libraries**  | scikit-learn, OpenCV, TensorFlow, Keras, dlib, transformers                                        |
+| **Databases**          | MySQL                                                                |
 
 ---
 
