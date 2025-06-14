@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm an aspiring Software Developer and Machine Learning en
 
 ## 🚀 Projects
 
-### 🧠 Document ChatBot (2025)
+###  Document ChatBot (2025)
 
 Built a document-based chatbot system with semantic search and theme extraction using Sentence Transformers and BART. The app allows uploading PDFs/images and querying content intelligently with cited references.
 
@@ -45,13 +45,15 @@ Built a document-based chatbot system with semantic search and theme extraction 
 
 ---
 
-### 😴 Driver Drowsiness Detection
+### Driver Drowsiness Detection
 
-Developed a real-time detection system using OpenCV and dlib for facial landmark tracking to detect signs of fatigue.
+Developed a drowsiness detection system using OpenCV for image and video processing tasks. Implemented face detection and facial landmark localization using dlib's pre-trained models. Utilized NumPy for numerical operations and array manipulation, enhancing the efficiency of facial landmark processing. Evaluated the performance of the system using metrics provided by scikit-learn.
 
-- Real-time alerts
-- Works in varied lighting
-- Facial feature analysis
+Features:
+- Real-time detection of driver drowsiness
+- High accuracy in recognizing eye and facial patterns
+- Robust performance under varying lighting conditions
+- Easy integration with existing vehicle monitoring systems
 
 ---
 
