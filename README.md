@@ -68,4 +68,9 @@ Features:
 
 ---
 
+
+## 📈 GitHub Stats
+
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshucode545&show_icons=true&theme=radical)
+
 *Thank you for visiting! Feel free to explore my repos or reach out if you'd like to collaborate 🚀*
